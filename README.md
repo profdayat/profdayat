@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dm41wiozr/image/upload/c_thumb,r_max,w_600/Untitled_mi0sej.gif" width="200" />
+  <img src="https://lh3.googleusercontent.com/d/1QlUM9cQnOO5nKqZSZHEi4KpsdXWktgvG" width="200" />
 </p>
 
 
