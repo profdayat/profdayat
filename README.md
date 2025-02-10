@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dm41wiozr/image/upload/r_max,w_200/Untitled_mi0sej.gif" width="200" />
+  <img src="https://res.cloudinary.com/dm41wiozr/image/upload/r_max,w_600/Untitled_mi0sej.gif" width="200" />
 </p>
 
 <p align="center"> Hi There 👋, My Name is <strong>Dayat</strong> — I am a [Web Development Enthusiast] from Pasuruan, East Java who always tries to learn new things in the world of technology.
