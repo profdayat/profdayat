@@ -9,7 +9,6 @@
 ---
 ![](https://img.shields.io/badge/About%20-Me-blue) 
 <br/>
-<img width="40%" align="right" alt="profdayat Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
 
 🔭 Currently working on personal projects.
 <br/>
@@ -24,3 +23,6 @@
 ⚡ Fun fact: **Facilitator** at **[IDCamp](https://idcamp.indosatooredoo.com/)**, as a **[Front-End Web Developer Expert](https://www.dicoding.com/academies/219)**
 
 [Check out my website](https://profdayat.my.id/)
+
+---
+<img width="40%" align="right" alt="profdayat Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
