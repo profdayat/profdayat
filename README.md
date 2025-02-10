@@ -1,5 +1,12 @@
 <p align="center">
-<img src="https://lh3.googleusercontent.com/d/1QlUM9cQnOO5nKqZSZHEi4KpsdXWktgvG" width="200" style="border-radius: 50%;" />
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath id="clipCircle">
+        <circle cx="100" cy="100" r="100" />
+      </clipPath>
+    </defs>
+    <image clip-path="url(#clipCircle)" xlink:href="https://lh3.googleusercontent.com/d/1QlUM9cQnOO5nKqZSZHEi4KpsdXWktgvG" width="200" height="200"/>
+  </svg>
 </p>
 
 <p align="center"> Hi There 👋, My Name is <strong>Dayat</strong> — I am a [Web Development Enthusiast] from Pasuruan, East Java who always tries to learn new things in the world of technology.
