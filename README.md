@@ -25,4 +25,5 @@
 [Check out my website](https://profdayat.my.id/)
 
 ---
-<img width="40%" align="right" alt="profdayat Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
