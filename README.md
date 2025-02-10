@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/-Javascript-000000?logo=Javascript&logoColor=white)
 <br/>
 <img width="40%" align="right" alt="profdayat Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
----
 
 🔭 Currently working on personal projects.
 <br/>
