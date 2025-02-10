@@ -8,6 +8,7 @@
 
 ---
 ![](https://img.shields.io/badge/-Javascript-000000?logo=Javascript&logoColor=white)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&langs_count=6&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
