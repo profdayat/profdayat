@@ -26,4 +26,20 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+<br/>
+<p>
+  <h4>Programming Languages</p>
+  <img src="https://skillicons.dev/icons?i=js,vb,python,php" />
+  <br/>
+  <h4>Frameworks and Libraries</p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,laravel,bootstrap,tailwindcss,materialui" />
+  <br/>
+  <h4>Databases</p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <br/>
+  <h4>Techs and Apps</p>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,bash" />
 
+</p>
+<br/>
