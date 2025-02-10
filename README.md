@@ -7,7 +7,7 @@
 </p>
 
 ---
-![](https://img.shields.io/badge/About%20Me)
+![](https://img.shields.io/badge/About%20-Me-blue) 
 <br/>
 <img width="40%" align="right" alt="profdayat Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
 
