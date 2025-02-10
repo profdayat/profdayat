@@ -7,8 +7,9 @@
 </p>
 
 ---
-![](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-000000?logo=Javascript&logoColor=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&langs_count=6&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 🔭 Currently working on personal projects.
 <br/>
