@@ -3,10 +3,11 @@
   <img src="https://lh3.googleusercontent.com/d/1QlUM9cQnOO5nKqZSZHEi4KpsdXWktgvG" width="200" />
 </p>
 
-
 <p align="center"> Hi There 👋, My Name is <strong>Dayat</strong> — I am a [Web Development Enthusiast] from Pasuruan, East Java who always tries to learn new things in the world of technology.
 </p>
 
+---
+![](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&logoColor=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profdayat&layout=compact&langs_count=6&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 Currently working on personal projects.
