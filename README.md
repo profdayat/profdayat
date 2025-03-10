@@ -30,10 +30,10 @@
 <br/>
 <p>
   <h4>Programming Languages</p>
-  <img src="https://skillicons.dev/icons?i=js,dotnet,py,php,java" />
+  <img src="https://skillicons.dev/icons?i=js,dotnet,py,php,java,dart" />
   <br/>
   <h4>Frameworks and Libraries</p>
-  <img src="https://skillicons.dev/icons?i=npm,express,react,laravel,bootstrap,jquery,tailwindcss,materialui,gatsby,webpack" />
+  <img src="https://skillicons.dev/icons?i=npm,express,react,laravel,bootstrap,jquery,tailwindcss,materialui,gatsby,webpack,flutter" />
   <br/>
   <h4>Databases</p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite,postgres" />
