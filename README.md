@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite,postgres&perline=6" />
   <br/>
   <h4>Techs and Apps</p>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,visualstudio,sublime,notion,codepen,bash,gcp,netlify,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,nodejs,vscode,visualstudio,sublime,notion,codepen,bash,gcp,netlify,postman&perline=6" />
 
 </p>
 <br/>
