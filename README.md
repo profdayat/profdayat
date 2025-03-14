@@ -18,7 +18,7 @@
 <br/>
 📫 How to reach me: **[akundayat97@gmail.com](mailto:akundayat97@gmail.com)**
 <br/>
-😄 Pronouns: **He / Him**
+😄 Pronouns: **He / Him**.
 <br/>
 ⚡ Fun fact: **Facilitator** at **[IDCamp](https://idcamp.indosatooredoo.com/)**, as a **[Front-End Web Developer Expert](https://www.dicoding.com/academies/219)**
 
