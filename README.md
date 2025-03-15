@@ -20,7 +20,7 @@
 <br/>
 😄 Pronouns: **He / Him**.
 <br/>
-⚡ Fun fact: **Facilitator** at **[IDCamp](https://idcamp.indosatooredoo.com/)**, as a **[Front-End Web Developer Expert](https://www.dicoding.com/academies/219)**
+⚡ Fun fact: **Facilitator** at **[IDCamp](https://idcamp.indosatooredoo.com/)**, as a **[Front-End Web Developer Expert](https://www.dicoding.com/academies/219)**.
 
 [Check out my website](https://profdayat.my.id/)
 
