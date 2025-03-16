@@ -30,7 +30,7 @@
 <br/>
 <p>
   <h4>Programming Languages</p>
-  <img src="https://skillicons.dev/icons?i=js,dotnet,py,php,java,dart&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,php,dotnet,java,py,dart&perline=6" />
   <br/>
   <h4>Frameworks and Libraries</p>
   <img src="https://skillicons.dev/icons?i=npm,express,react,laravel,bootstrap,jquery,tailwindcss,materialui,gatsby,webpack,flutter&perline=6" />
