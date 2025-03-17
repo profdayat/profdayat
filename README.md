@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=js,php,dotnet,java,py,dart&perline=6" />
   <br/>
   <h4>Frameworks and Libraries</p>
-  <img src="https://skillicons.dev/icons?i=npm,express,react,laravel,bootstrap,jquery,tailwindcss,materialui,gatsby,webpack,flutter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=npm,express,webpack,react,laravel,bootstrap,jquery,tailwindcss,materialui,gatsby,flutter&perline=6" />
   <br/>
   <h4>Databases</p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite,postgres&perline=6" />
