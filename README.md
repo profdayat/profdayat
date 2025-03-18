@@ -14,7 +14,7 @@
 <br/>
 🌱 Deepening JavaScript and web development.
 <br/>
-🎓 Motto: **_"Always to Learn"_**
+🎓 Motto: **_"Always to Learn"_**.
 <br/>
 📫 How to reach me: **[akundayat97@gmail.com](mailto:akundayat97@gmail.com)**
 <br/>
