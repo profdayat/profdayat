@@ -29,7 +29,7 @@
 ---
 <br/>
 <p>
-  <h4>Programming Languages</p>
+  <h4>Programming Languages:</p>
   <img src="https://skillicons.dev/icons?i=js,php,dotnet,java,py,dart&perline=6" />
   <br/>
   <h4>Frameworks and Libraries</p>
